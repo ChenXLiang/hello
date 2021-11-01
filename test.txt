@@ -1,4 +1,4 @@
 this test
 change one time
 change two time
-提交到HITHUB
+提交到GITHUB
